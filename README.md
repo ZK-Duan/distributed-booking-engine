@@ -7,7 +7,7 @@
        │             FastAPI Web Router (main.py)                │
        │    - Session Validate  - Cookie Parser  - HTTP Response │
        └────────────────────────────┬────────────────────────────┘
-                                    │ Python Object Calls (Clean APIs)
+                                    │ Function Calls with Parameters
                                     ▼
        ┌─────────────────────────────────────────────────────────┐
        │           Booking Engine Service (booking_system.py)    │
